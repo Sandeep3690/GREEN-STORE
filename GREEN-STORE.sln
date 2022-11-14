@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GREEN-STORE", "GREEN-STORE\GREEN-STORE.csproj", "{64E63A20-8C5A-4030-B2B4-D9449F9DCB85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64E63A20-8C5A-4030-B2B4-D9449F9DCB85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64E63A20-8C5A-4030-B2B4-D9449F9DCB85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64E63A20-8C5A-4030-B2B4-D9449F9DCB85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64E63A20-8C5A-4030-B2B4-D9449F9DCB85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7AA33EF-C869-46E8-BB8E-C3D5F7F320AA}
+	EndGlobalSection
+EndGlobal
